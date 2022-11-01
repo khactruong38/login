@@ -56,9 +56,7 @@ html {
     .container {
         display: inherit;
     }
-    .item {
-        border: #c14543 solid 1px;
-    }
+    
     .container .item:nth-child(1),
     .container .item:nth-child(2){
         width: 40%;
